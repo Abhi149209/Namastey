@@ -9,7 +9,7 @@ Mongo DB, Express, node.js , react.js, Mongoose etc .
 ![up_4](https://user-images.githubusercontent.com/72963525/129492732-34465bcc-714a-4df3-9874-0b56bab89482.png)
 
 
-![up_5](https://user-images.githubusercontent.com/72963525/129492266-5e24a464-e776-413a-aa1e-14dcfe8eac12.png)
+<img width="526" alt="up_5" src="https://user-images.githubusercontent.com/72963525/129492748-feaa9837-4f26-48f1-a822-31fb1fa619a3.png">
 ![up_1](https://user-images.githubusercontent.com/72963525/129492178-cfd9d3b0-9a03-48e3-aa88-2dd5c546a77d.png)
 ![up_7](https://user-images.githubusercontent.com/72963525/129492309-02567f1b-ec8c-4033-8dbe-599ba1235fa3.png)
 ![up_8](https://user-images.githubusercontent.com/72963525/129492321-feb38492-00f2-4014-b783-b48a5f2d4389.png)
