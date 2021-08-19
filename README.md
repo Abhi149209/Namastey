@@ -2,7 +2,7 @@
 
 An E-Commerce Website enabling payment gateways for paypal with Debit Cards , shopping t-shirts in proffesional analouge.
 Mongo DB, Express, node.js , react.js, Mongoose etc . 
-frontend enabling along techno such as react js , bootstrapetc . 
+frontend enabling along techno such as react js , bootstrap, etc . 
 HTML , CSS basis of structural design !! 
 
 ![up_6](https://user-images.githubusercontent.com/72963525/129492290-1068411f-3a41-4ada-92ac-c3e8f95cb1c2.png)
